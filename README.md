@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, やあ, Hola 👋
-<h2 align="center">Bienvenido a mi perfil
+<h2 align="center">Welcome to my profile -- Bienvenido a mi perfil
 <h2 align="center">リヴァイアサン
 
 <!--
