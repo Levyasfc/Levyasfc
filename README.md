@@ -3,4 +3,5 @@
 <h2 align="center">リヴァイアサン</h2>
 
 - 🔭 I’m currently working on .NET, REACT
-- 🌱 I’m currently learning C#, Python, HTML, CSS, JS
+- 🌱 I’m currently learning C#, Python, HTML, CSS, JS, Java, MatLab
+- 👀 Knowledge in SQL, NoSQL, POO, Cybersecurity, Hardware
