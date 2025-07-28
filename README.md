@@ -7,7 +7,7 @@
 - 👀 Knowledge in SQL, NoSQL, POO, Cybersecurity, Hardware
 ###
 
-// Lenguajes que uso
+# <h1 aling="center">Lenguajes que uso</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
