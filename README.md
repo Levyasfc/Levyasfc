@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, やあ, Hola 👋</h1>
 <h2 align="center">Welcome to my profile -- Bienvenido a mi perfil</h2>
 
-- 🔭 I’m currently working on .NET, REACT
-- 🌱 I’m currently learning C#, Python, HTML, CSS, JS, Java, MatLab, PHP, Laravel
-- 👀 Knowledge in SQL, NoSQL, POO, Cybersecurity, Hardware
+<p>Actualmente un desarrollador JUNIOR con muchas bases y interes en ser FULLSTACK, aprendiendo de todo un poco para llegar al dominio total del lenguaje de la programacion</p>
 
 <h1 align="center">Lenguajes aprendidos </h1>
 
